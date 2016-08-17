@@ -1,1 +1,1 @@
-DATA BI
+A System Of Data Model
